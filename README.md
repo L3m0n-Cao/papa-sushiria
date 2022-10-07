@@ -1,5 +1,5 @@
 # papa-sushiria
-Waflash Port from Vseigru
+broken attempt from Porting from Vseigru
 
 
 Pulled from
